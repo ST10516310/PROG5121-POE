@@ -5,7 +5,7 @@ public class QuickChatApp {
         Scanner sc = new Scanner(System.in);
         Login login = new Login();
         System.out.println("=== Registration ===");
-        System.out.print("Enter username (kyl_1): ");
+        System.out.print("Enter username (ST_10): ");
         String user = sc.nextLine();
         System.out.print("Enter password (Ch&&sec@ke99!): ");
         String pass = sc.nextLine();
