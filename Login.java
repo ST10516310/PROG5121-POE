@@ -25,7 +25,7 @@ public class Login {
         return u1.equals(u2) && p1.equals(p2);
     }
     public String returnLoginStatus(boolean s){
-        if(s) return "Welcome kyl_1, it is great to see you again.";
+        if(s) return "Welcome ST_10, it is great to see you again.";
         return "Username or password incorrect, please try again.";
     }
 }
